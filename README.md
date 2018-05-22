@@ -1,5 +1,5 @@
 # ☒CHIP CR01
-<img src="extras/CR01 V1.0.0.JPG" width="35%" height="auto" align="right">
+<img src="extras/CR01 V1.0.0.jpg" width="35%" height="auto" align="right">
 LoRa with ATmega328P Core (433.92 MHz) (RFM96W).
 
 This module can be purchased on [Xinabox CC](https://xinabox.cc/products/CR01/).
