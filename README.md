@@ -16,8 +16,5 @@ More information on the RFM96W can be found in the [datasheet](http://www.hoperf
 - Installation of the [RadioHead](https://github.com/xinabox/RadioHead)
 - ☒CHIP CR01
 
-## Installation Guide
-To install the libraries please followed the guide provided on the [Arduino Website](https://www.arduino.cc/en/Guide/Libraries) under "**Importing a .zip Library**".
-
 ## Switch Configuration for IP01 (V0.4.11)
 - [☒IP01 Switch Guide](https://github.com/xinabox/xIP01/blob/master/notes/CRXX.md)
